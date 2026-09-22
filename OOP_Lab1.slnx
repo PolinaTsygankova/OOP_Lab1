@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="HouseMode.cs" />
+    <File Path="SmartHouse.cs" />
+  </Folder>
+  <Project Path="OOP_Lab1.csproj" />
+</Solution>
